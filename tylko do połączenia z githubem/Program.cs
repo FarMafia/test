@@ -10,6 +10,7 @@ namespace tylko_do_połączenia_z_githubem
     {
         static void Main(string[] args)
         {
+            //ten plik jest z githuba!
         }
     }
 }
